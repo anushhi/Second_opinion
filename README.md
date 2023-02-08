@@ -23,7 +23,7 @@ Here is demo
 
 <img width="1728" alt="Screenshot 2023-02-08 at 8 06 34 PM" src="https://user-images.githubusercontent.com/65493890/217561882-3a7f0bd8-f70c-4c2a-8a5a-8b413a168e64.png">
 
-If we will upload the file and will show the result in this way
+If we upload an MRI image of a patient, it will predict the result as shown below
 
 
 <img width="1728" alt="Screenshot 2023-02-08 at 8 06 48 PM" src="https://user-images.githubusercontent.com/65493890/217560899-d0039f49-a3fa-48c2-b327-c8f2918e925c.png">
